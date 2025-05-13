@@ -1,0 +1,106 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="gwLt7zeEbOfnFQmTfy_s">
+    <mxGraphModel dx="1354" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-1" value="Optum Ips" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-2" target="RyF6_4f3UuL0OuE-KpbI-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-26" value="peered" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RyF6_4f3UuL0OuE-KpbI-25" vertex="1" connectable="0">
+          <mxGeometry x="-0.0316" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="170" width="390" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-3" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;e0badd0d-4f56-4265-a337-3464a8c3b1ce&quot; id=&quot;e0badd0d-4f56-4265-a337-3464a8c3b1cf&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vnet-firewall-optumcaredr:&amp;nbsp;10.4.126.0/25&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="130" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="RyF6_4f3UuL0OuE-KpbI-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250" y="340" width="270" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-9" value="&lt;span style=&quot;color: rgb(0, 90, 158); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: left; text-wrap: nowrap; background-color: rgb(237, 235, 233);&quot;&gt;AzureFirewallSubnet:&lt;/span&gt;&lt;span style=&quot;color: rgb(41, 40, 39); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: left; text-wrap: nowrap; background-color: rgb(237, 235, 233);&quot;&gt;10.4.126.0/26&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="310" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-10" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;e0badd0d-4f56-4265-a337-3464a8c3b234&quot; id=&quot;e0badd0d-4f56-4265-a337-3464a8c3b235&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;br&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="360" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-1" target="RyF6_4f3UuL0OuE-KpbI-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-12" value="&lt;h2 style=&quot;text-wrap: nowrap; margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;e0badd0d-4f56-4265-a337-3464a8c3b234&quot; id=&quot;e0badd0d-4f56-4265-a337-3464a8c3b235&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;aks-firewall-optumcaredr&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="350" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-14" value="&lt;a style=&quot;font-size: 13px; text-decoration-line: none; vertical-align: middle; padding: 1px; cursor: pointer; font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap: nowrap; background-color: rgb(243, 242, 241);&quot; href=&quot;https://portal.azure.com/#&quot; tabindex=&quot;0&quot; class=&quot;fxc-gcflink-link&quot;&gt;pip-firewall-optumcaredr&lt;/a&gt;:&amp;nbsp;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 90, 158); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 13px; text-align: left; text-wrap: nowrap; background-color: rgb(243, 242, 241);&quot;&gt;48.211.154.26&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="335" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-16" value="aks-subnet&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: rgb(41, 40, 39); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap: nowrap; background-color: rgb(237, 235, 233);&quot;&gt;10.72.120.0/23&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="560" width="390" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-17" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;e0badd0d-4f56-4265-a337-3464a8c3b1ce&quot; id=&quot;e0badd0d-4f56-4265-a337-3464a8c3b1cf&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;vnet-optumcaredr:&amp;nbsp;10.72.120.0/22&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="520" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-18" value="aks (kubernative Services)&lt;div&gt;managed nodes&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="710" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="590" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-20" value="aks-pe-subnet:&lt;span style=&quot;color: rgb(41, 40, 39); font-family: &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, &amp;quot;Segoe UI&amp;quot;, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: left; text-wrap: nowrap; background-color: rgb(237, 235, 233);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;10.72.122.80/28&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-21" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; text-wrap: nowrap; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(41, 40, 39); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, &amp;quot;system-ui&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot; aria-describedby=&quot;146a49c9-b9b2-4709-bdc0-5b372a3e9068&quot; id=&quot;146a49c9-b9b2-4709-bdc0-5b372a3e9069&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;aks-optumcaredr-api-private-endpoint&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="545" y="600" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-22" value="Aks api Server" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="770" y="530" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-21" target="RyF6_4f3UuL0OuE-KpbI-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-24" value="NPP HUB Vnet" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.425;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-16" target="RyF6_4f3UuL0OuE-KpbI-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-28" value="peered" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RyF6_4f3UuL0OuE-KpbI-27" vertex="1" connectable="0">
+          <mxGeometry x="0.102" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.995;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-2" target="RyF6_4f3UuL0OuE-KpbI-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-30" value="peered" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="RyF6_4f3UuL0OuE-KpbI-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.1309" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-31" value="UDR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="590" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RyF6_4f3UuL0OuE-KpbI-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RyF6_4f3UuL0OuE-KpbI-14" target="RyF6_4f3UuL0OuE-KpbI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_5aMOulWynieZpRK55zA-1" value="DNAT Rules:&lt;div&gt;Source:Optum IP;&amp;nbsp; traffic from Azure Firewall public Ip address&amp;nbsp; -&amp;gt;&amp;nbsp; Private IP of AKS PE (TCP 443)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Issues:&lt;/div&gt;&lt;div&gt;Per NPP Policies Vnets should be peered with HUB firewall, and subnet must be associated with Route table.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900" width="1020" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
